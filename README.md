@@ -12,7 +12,7 @@ All data used are obtained from public sources.
 * __Iowa_State_Parks_Spatial_R_Script.R__
 
   * Pulls state parks geometry data from Iowa DNR's ArcGIS REST directory, as well as IA county and city/place census data.
-  * Performs various spatial operations to create figures/maps.
+  * Performs spatial operations to create figures/maps.
   * Runs bivariate & multivariate linear regression models.
   * Cleans pulled state parks data & writes to the rds file __iowa_state_parks_df.rds__.
 
