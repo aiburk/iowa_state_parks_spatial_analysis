@@ -1,5 +1,5 @@
 ## Iowa State Parks Spatial Analysis
-A repository of R Code for spatial analysis of Iowa state parks I created as a data analyst/undergraduate research assistant for the Public Science Collaborative at Iowa State University. 
+A repository of R Code I created for spatial analysis of Iowa state parks. 
 
 All data used are obtained from public sources.
 
